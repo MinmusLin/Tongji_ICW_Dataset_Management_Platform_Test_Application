@@ -27,6 +27,14 @@ Tongji ICW Dataset Management Platform Test Application.
 * [Security Test](SecurityTest)
 安全性测试模块
 
+## 相关仓库
+
+* [Dataset Management Platform (Backend Application)](https://github.com/Intelligent-Curtain-Wall/OssManagement_Backend)
+数据集管理平台（后端应用程序）
+
+* [Dataset Management Platform (Frontend Application)](https://github.com/Intelligent-Curtain-Wall/OssManagement_Frontend)
+数据集管理平台（前端应用程序）
+
 ## 免责声明
 
 The code and materials contained in this repository are intended for personal learning and research purposes only and may not be used for any commercial purposes. Other users who download or refer to the content of this repository must strictly adhere to the **principles of academic integrity** and must not use these materials for any form of homework submission or other actions that may violate academic honesty. I am not responsible for any direct or indirect consequences arising from the improper use of the contents of this repository. Please ensure that your actions comply with the regulations of your school or institution, as well as applicable laws and regulations, before using this content. If you have any questions, please contact me via [email](mailto:minmuslin@outlook.com).
